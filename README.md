@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://waveframe.com.ar/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-waveframe.com.ar-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:wave1frame@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
