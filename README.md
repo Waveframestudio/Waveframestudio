@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/company/waveframe-studio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.link/a1bh6y">
-    <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://github.com/ramirolacci" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ramirolacci?style=social" />
   </a>
 </p>
 
