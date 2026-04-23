@@ -101,11 +101,11 @@
 ### 📊 Studio Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Facu14carrizo&theme=tokyonight&hide_border=true" alt="WaveFrame Activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waveframestudio&theme=tokyonight&hide_border=true" alt="WaveFrame Activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facu14carrizo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Studio Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waveframestudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Studio Stats" />
 </p>
 
 ---
