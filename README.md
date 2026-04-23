@@ -126,7 +126,3 @@ We are always looking for exciting projects and innovative collaborations. If yo
 <p align="center">
   <em>"Where aesthetics meets high-performance engineering." 💫</em>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</div>
