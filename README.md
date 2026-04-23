@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/company/waveframe-studio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ramirolacci" target="_blank">
+  <a href="https://github.com/Waveframestudio" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ramirolacci?style=social" />
   </a>
 </p>
