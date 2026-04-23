@@ -1,4 +1,4 @@
-# 🌌 WaveFrame Studio | Digital Experiences <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamN0YXN6YnZ6Z2xzZnR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaOXYAms/giphy.gif" width="40">
+#  WaveFrame Studio <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamN0YXN6YnZ6Z2xzZnR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaOXYAms/giphy.gif" width="40">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WaveFrame%20Studio&fontSize=80&animation=fadeIn&fontAlignY=35" alt="WaveFrame Studio Banner" />
