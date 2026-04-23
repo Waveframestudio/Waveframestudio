@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Waveframestudio" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ramirolacci?style=social" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Waveframestudio?style=social" />
   </a>
 </p>
 
