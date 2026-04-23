@@ -120,8 +120,8 @@
 We are always looking for exciting projects and innovative collaborations. If you have a vision that needs a technical and creative edge, let's talk.
 
 <p align="center">
-  <a href="mailto:wave1frame@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wave1frame@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ramiroalejandrolacci19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/5491163704522">
     <img src="https://img.shields.io/badge/WhatsApp-Connect_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
