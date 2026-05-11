@@ -101,16 +101,9 @@
 ### 📊 Studio Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waveframestudio&theme=tokyonight&hide_border=true" alt="WaveFrame Activity" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Waveframestudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Studio Stats" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
